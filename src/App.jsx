@@ -43,6 +43,7 @@ function App() {
                 <h1>aloo</h1>
               </div>
             </div>
+            <h2>Tún</h2>
 
             <div className="grid grid-cols-2 gap-4">
               <div>
