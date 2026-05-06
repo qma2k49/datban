@@ -40,6 +40,7 @@ function App() {
                 >
                   +
                 </button>
+                <h1>aloo</h1>
               </div>
             </div>
             <h2>Tún</h2>
